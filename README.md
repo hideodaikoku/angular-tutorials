@@ -1,4 +1,4 @@
-# HalfStep
+# HalfStep - Tutorial File to create a test web app with Angular JS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
